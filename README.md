@@ -1,4 +1,4 @@
-# AbletonLive10_MIDIRemoteScripts
+# Ableton Live10.0.2 MIDI Remote Scripts
 Unofficial repository for Ableton Live 10.0.2 MIDI Remote Scripts Python Sources by Julien Bayle
 
 You can find more informations on this page :
